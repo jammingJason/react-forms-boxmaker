@@ -1,0 +1,11 @@
+.Box-btn{
+    border-color: white;
+    background-color: red;
+    color: white;
+    text-align: right;
+    justify-content: end;
+    align-items: end
+}
+.Box-div{
+    box-shadow: 3px 3px 3px;
+}
